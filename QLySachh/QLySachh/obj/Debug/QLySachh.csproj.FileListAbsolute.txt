@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\bin\Debug\QLySachh.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\bin\Debug\QLySachh.exe
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\bin\Debug\QLySachh.pdb
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\obj\Debug\QLySachh.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\obj\Debug\QLySachh.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\obj\Debug\QLySachh.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\obj\Debug\QLySachh.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\obj\Debug\QLySachh.exe
+c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\obj\Debug\QLySachh.pdb
