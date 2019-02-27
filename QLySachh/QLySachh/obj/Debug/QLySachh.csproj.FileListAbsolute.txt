@@ -11,3 +11,6 @@ c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\obj\Debug
 c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\obj\Debug\QLySachh.csproj.GenerateResource.Cache
 c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\obj\Debug\QLySachh.exe
 c:\users\admin\documents\visual studio 2015\Projects\QLySachh\QLySachh\obj\Debug\QLySachh.pdb
+C:\Users\Admin\Desktop\QLsach\QLySachh\QLySachh\bin\Debug\QLySachh.exe.config
+C:\Users\Admin\Desktop\QLsach\QLySachh\QLySachh\obj\Debug\QLySachh.exe
+C:\Users\Admin\Desktop\QLsach\QLySachh\QLySachh\obj\Debug\QLySachh.pdb
